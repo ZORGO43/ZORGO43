@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Just a Game and Dev.<br>🔭 I’m currently working on MalluRoleplay V4<br>🤝 I’m Founder of Cloud Works And Cloud  Network<br>🌱 I’m currently learning C++<br>💬 Ask me about Gaming and Dev<br>
+⚡ Just a Gamer and Dev.<br>🔭 I’m currently working on MalluRoleplay V4<br>🤝 I’m Founder of Cloud Works And Cloud  Network<br>🌱 I’m currently learning C++<br>💬 Ask me about Gaming and Dev<br>
 
 
 ## 🌐 Socials:
