@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Just a Gamer and Dev.<br>🔭 I’m currently working on Wave Life Games<br>🤝 I’m Founder of Wave Life Games<br>🌱 I’m currently learning C++<br>💬 Ask me about Gaming and Dev<br>
+⚡ Just a Gamer and Dev.<br>🔭 I’m currently working on Wave Life Games<br>🤝 I’m Founder of Wave Life Games<br>🌱 I’m currently learning Java<br>💬 Ask me about Gaming and Dev<br>
 
 
 ## 🌐 Socials:
