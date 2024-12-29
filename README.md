@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Dev.<br>🤝 I’m currently working at Hyzex Games<br>🌱 I’m currently learning about AI Models<br>☁️ Love to learn More !!!<br><br>
+⚡ Dev.<br>☁️ Love to learn More !!!<br><br>
 
 
 ## 🌐 Socials:
